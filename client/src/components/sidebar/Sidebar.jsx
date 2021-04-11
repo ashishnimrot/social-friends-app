@@ -54,6 +54,74 @@ export default function Sidebar() {
             <span className="sidebarListItemText">Course</span>
           </li>
         </ul>
+        <button className="sidebarButton">Show more</button>
+        <hr className="sidebarHr" />
+        <ur className="sidebarFriendList">
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+          <li className="sidebarFriend">
+            <img
+              src="./assets/person/1.jpeg"
+              alt=""
+              className="sidebarFriendImg"
+            />
+            <span className="sidebarFriendName">Ashish Nimrot</span>
+          </li>
+        </ur>
       </div>
     </div>
   );
